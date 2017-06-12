@@ -1,0 +1,26 @@
+.store-item
+{
+	text-align: left;
+
+	width: 240px;
+	height: 315px;
+	display: inline-block;
+}
+
+.my-padding
+{
+	margin-bottom: 75px;
+}
+
+.textone{
+	font-style: oblique;
+	font-weight: bold;
+}
+
+.aboutthat{
+	padding-top:10px;
+    margin-right:20%;
+    padding-bottom: 50px;
+    margin-left: 20%;
+    line-height: 170%;
+}
